@@ -1,13 +1,13 @@
 /**
  * 
  * @author: [[User:Helder.wiki]]
- * @tracking: [[Special:GlobalUsage/User:Helder.wiki/Tools/PAGENAME.js]] ([[File:User:Helder.wiki/Tools/PAGENAME.js]])
+ * @tracking: [[Special:GlobalUsage/User:{{{{subst:PAGENAME}}]] ([[File:User:{{{{subst:PAGENAME}}]])
  */
-/*global $, mw */
-/*jslint white: true */
-$(function () {
+/*jslint browser: true, white: true*/
+/*global mediaWiki, jQuery*/
+( function ( $, mw /* , undefined */ ) { 
 'use strict';
 
 
 
-});
+} )( jQuery, mediaWiki );
