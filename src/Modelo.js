@@ -5,9 +5,9 @@
  */
 /*jslint browser: true, white: true*/
 /*global mediaWiki, jQuery*/
-( function ( $, mw /* , undefined */ ) { 
+( function ( $, mw /* , undefined */ ) {
 'use strict';
 
+/* Code here */
 
-
-} )( jQuery, mediaWiki );
+}( jQuery, mediaWiki ) );
