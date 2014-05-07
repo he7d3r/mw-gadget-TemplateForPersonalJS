@@ -1,7 +1,7 @@
 /**
  * 
  * @author: [[User:Helder.wiki]]
- * @tracking: [[Special:GlobalUsage/{{subst:PAGENAME}}]] ([[File:User:{{subst:PAGENAME}}]])
+ * @tracking: [[Special:GlobalUsage/User:{{subst:PAGENAME}}]] ([[File:User:{{subst:PAGENAME}}]])
  */
 /*jshint browser:true, camelcase:true, curly:true, eqeqeq:true, immed:true, latedef:true,
 newcap:true, noarg:true, noempty:true, nonew:true, quotmark:true, undef:true, unused:true,
